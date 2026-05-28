@@ -63,6 +63,6 @@ This project focuses on:
 
 
 
-## 👨‍💻 Author
+##  Author
 
-Created by **Bhuwan Adhikari** ✨
+Created by **Bhuwan Adhikari** 
